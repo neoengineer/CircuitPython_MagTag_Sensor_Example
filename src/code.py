@@ -1,3 +1,4 @@
+SPDX-FileCopyrightText: 2022 Thomas May, Adafruit Industries
 import time
 import board
 from digitalio import DigitalInOut, Direction, Pull
